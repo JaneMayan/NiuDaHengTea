@@ -6,6 +6,11 @@
 我們也會實時更新一些關於茶的資訊。
 牛大亨茶樓期待您的購買。
 
+![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image2.png)
+![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image3.png)
+![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image4.png)
+
+
 if you have any question, please contact me with no hesitate
 
 Email: rahnerlyczkowski@gmail.com
@@ -19,10 +24,7 @@ Normally, I will reply you within 30 days
 
 Thank you!
 
-![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image1.png)
-![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image2.png)
-![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image3.png)
-![image](https://github.com/JaneMayan/NiuDaHengTea/blob/master/image/image4.png)
+
 
 
 
